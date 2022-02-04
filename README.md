@@ -1,4 +1,4 @@
-### Hi there 👋, Im Allan 
+### Hi there 👋, I'm Allan 
 [![trophy](https://github-profile-trophy.vercel.app/?username=allanetizen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a few react projects
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on building React applications
-- 🤔 I’m looking for help with my MERN fullstack journey
-- 💬 Ask me about Tech ,Cars and Guns
+- 🔭 I’m currently working on React/Node/Express/MongoDB projects
+- 🌱 I’m currently learning ReactJS⚛️
+- 👯 I’m looking to collaborate on building Fullstack applications🧑🏿‍💻
+- 🤔 I’m looking for help with my MERN fullstack journey⚙️
+- 💬 Ask me about Tech , Fast Cars and Good music🎧
+

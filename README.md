@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on React/Node/Express/MongoDB projects
-- 🌱 I’m currently learning ReactJS⚛️
+- 🌱 I’m currently learning ReactJS⚛️ and DevOPs
 - 👯 I’m looking to collaborate on building Fullstack applications🧑🏿‍💻
 - 🤔 I’m looking for help with my MERN fullstack journey⚙️
 - 💬 Ask me about Tech , Fast Cars and Good music🎧

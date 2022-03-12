@@ -3,7 +3,6 @@
 
 ### Hi there 👋, I'm Allan 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=allanetizen&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
